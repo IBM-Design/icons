@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Background" display="none">
+	<rect display="inline" fill="#F0F0F0" width="24" height="24"/>
+</g>
+<g id="Icon">
+	<g>
+		<path d="M18,7c0-3.24-2.759-6-6-6C8.757,1,6,3.76,6,7v2.723C4.759,11.132,4,12.976,4,15c0,4.416,3.584,8,8.001,8S20,19.416,20,15
+			c0-2.025-0.759-3.869-2-5.278V7z M8,7c0-2.131,1.869-4,4-4s4,1.869,4,4v1.079C14.822,7.396,13.459,7,12.001,7
+			C10.542,7,9.178,7.397,8,8.08V7z M10.5,19.414l-3.707-3.707l1.414-1.414l2.293,2.293l5.293-5.293l1.414,1.414L10.5,19.414z"/>
+	</g>
+</g>
+<g id="Guide" display="none">
+	<g display="inline">
+		<path fill="#FFCCCC" d="M23,1v22H1V1H23 M24,0H0v24h24V0L24,0z"/>
+	</g>
+</g>
+</svg>

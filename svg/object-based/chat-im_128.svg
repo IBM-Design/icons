@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<g>
+	<path d="M97.938,18.06C89.254,9.373,77.254,4,64,4S38.746,9.373,30.062,18.06C21.375,26.746,16,38.746,16,52
+		s5.375,25.254,14.062,33.939C38.746,94.627,50.746,100,64,100v24l33.938-36.064C106.625,78.74,112,66.033,112,52
+		C112,38.746,106.625,26.746,97.938,18.06z M95.024,85.194L68,113.913V100v-4h-4c-11.753,0-22.801-4.577-31.109-12.889
+		C24.578,74.8,20,63.751,20,52s4.578-22.8,12.892-31.112C41.199,12.577,52.247,8,64,8s22.801,4.577,31.109,12.889
+		C103.422,29.2,108,40.249,108,52C108,64.549,103.394,76.336,95.024,85.194z"/>
+	<circle cx="64" cy="52" r="6"/>
+	<circle cx="84" cy="52" r="6"/>
+	<circle cx="44" cy="52" r="6"/>
+</g>
+</svg>

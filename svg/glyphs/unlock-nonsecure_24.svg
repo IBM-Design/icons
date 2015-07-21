@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px"
+	 height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Background" display="none">
+	<rect display="inline" fill="#F0F0F0" width="24" height="24"/>
+</g>
+<g id="Icon">
+	<g>
+		<path d="M12.001,7C10.542,7,9.178,7.397,8,8.08V7c0-2.131,1.869-4,4-4c1.065,0,2.065,0.467,2.8,1.201
+			c0.483-0.483,0.969-0.969,1.416-1.416C15.121,1.689,13.621,1,12,1C8.757,1,6,3.76,6,7v2.723C4.759,11.132,4,12.976,4,15
+			c0,4.416,3.584,8,8.001,8S20,19.416,20,15C20,10.583,16.418,7,12.001,7z M15.707,17.293l-1.414,1.414L12,16.414l-2.293,2.293
+			l-1.414-1.414L10.586,15l-2.293-2.293l1.414-1.414L12,13.586l2.293-2.293l1.414,1.414L13.414,15L15.707,17.293z"/>
+	</g>
+</g>
+<g id="Guide" display="none">
+	<g display="inline">
+		<path fill="#FFCCCC" d="M23,1v22H1V1H23 M24,0H0v24h24V0L24,0z"/>
+	</g>
+</g>
+</svg>

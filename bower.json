@@ -1,0 +1,21 @@
+{
+  "name": "ibm-design-icons",
+  "homepage": "https://github.com/IBM-Design/icons",
+  "authors": [
+    "IBM"
+  ],
+  "description": "IBM Icons",
+  "keywords": [
+    "ibm",
+    "icons",
+    "svg"
+  ],
+  "license": "CC-BY-4.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

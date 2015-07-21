@@ -1,0 +1,24 @@
+{
+  "name": "ibm-design-icons",
+  "version": "0.0.0",
+  "description": "IBM Icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IBM-Design/icons.git"
+  },
+  "keywords": [
+    "icons",
+    "ibm",
+    "svg"
+  ],
+  "author": "IBM",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/IBM-Design/icons/issues"
+  },
+  "homepage": "https://github.com/IBM-Design/icons#readme"
+}
