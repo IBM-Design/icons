@@ -13,6 +13,17 @@ The IBM Design Icons contain icons for use in IBM products. They're available th
 * When submitting a browser bug, please include the browser, version, operating system, and operating system version.
 * Issues that have a number of sub-items that need to be complete should use [task lists](https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments) to track the sub-items in the main issue comment.
 
+## Contributing New Icons
+
+When contributing new icon(s), please use the icon template in the [IBM Design Language Resources] (http://ibm.com/design/language/resources) and refer to the [IBM Design Language Iconography] (http://ibm.com/design/language/framework/visual/iconography) guidelines for more information on styling.
+
+On GitHub, icons will be reviewed through issue submissions to the IBM Design icon repo. Please title your issue: **IBM Design Language Iconography Contribution**. Feel free to add comments to your issue if necessary and upload an .SVG file with the following naming conventions: **iconname_underconsideration_date**.
+
+After you submit an issue, your icon(s) will go through a two week review period where people can add comments and suggest recommended changes.
+
+Following the review period, contributors will have one week to resubmit the files with changes and refinements via email. Export final file formats for icon files .SVG, .PNG, and .AI at 32 x 32, 64 x 64, and 128 x 128 pixels. All three sizes should live on three artboards in the same .AI file. Glyphs should be sized at 24 x 24 pixels.
+
+Email final files to **dlteam@us.ibm.com** for approval. Please allow at least two weeks between the time of approval and viewing the icons on the IBM Design Language iconography library (coming soon) and GitHub repo.
 
 ## Pull Requests
 
