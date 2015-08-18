@@ -23,7 +23,7 @@ After you submit an issue, your icon(s) will go through a two week review period
 
 Following the review period, contributors will have one week to resubmit the files with changes and refinements via email. Export final file formats for icon files .SVG, .PNG, and .AI at 32 x 32, 64 x 64, and 128 x 128 pixels. All three sizes should live on three artboards in the same .AI file. Glyphs should be sized at 24 x 24 pixels.
 
-Please do a pull request (see below) for approval. Please allow at least two weeks between the time of approval and viewing the icons on the IBM Design Language iconography library (coming soon) and GitHub repo.
+Please do a pull request (see below) for approval. Allow at least two weeks between the time of approval and viewing the icons on the IBM Design Language iconography library (coming soon) and GitHub repo.
 
 ## Pull Requests
 
