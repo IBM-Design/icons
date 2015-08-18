@@ -17,7 +17,7 @@ The IBM Design Icons contain icons for use in IBM products. They're available th
 
 When contributing new icon(s), please use the icon template in the [IBM Design Language Resources] (http://ibm.com/design/language/resources) and refer to the [IBM Design Language Iconography] (http://ibm.com/design/language/framework/visual/iconography) guidelines for more information on styling.
 
-On GitHub, icons will be reviewed through issue submissions to the IBM Design icon repo. Please title your issue: **IBM Design Language Iconography Contribution_UniqueDescription**. Feel free to add comments to your issue if necessary and upload an .SVG file with the following naming conventions: **iconname_underconsideration_date**.
+On GitHub, icons will be reviewed through issue submissions to the IBM Design icon repo. Please title your issue: **Iconography Contribution_Iconname**. Feel free to add comments to your issue if necessary and upload an .SVG file with the following naming conventions: **iconname_underconsideration_date**.
 
 After you submit an issue, your icon(s) will go through a two week review period where people can add comments and suggest recommended changes.
 
