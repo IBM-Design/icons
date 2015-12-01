@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/IBM-Design/icons.svg)](https://travis-ci.org/IBM-Design/icons)
+
 # IBM Design Icons
 
 Use the Icons from the [IBM Design Language](http://www.ibm.com/design/language/) in your project.
