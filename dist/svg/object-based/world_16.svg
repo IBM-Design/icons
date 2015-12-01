@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
-<rect x="6" y="13" width="3" height="2"/>
-<circle cx="7" cy="6" r="5"/>
-<rect x="5.172" y="15" width="4.828" height="1"/>
-<path d="M11.243,1.757c2.339,2.339,2.339,6.146,0,8.485C10.109,11.376,8.603,12,7,12s-3.109-0.624-4.243-1.757l-1.414,1.414
-	C2.905,13.219,4.953,14,7,14s4.095-0.781,5.657-2.343c3.124-3.124,3.124-8.19,0-11.314L11.243,1.757z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M5.828 12.828h3v2h-3z"/><circle cx="6.828" cy="5.828" r="5"/><path d="M5 14.828h4.828v1H5zM11.07 1.586c2.34 2.34 2.34 6.146 0 8.485C9.94 11.205 8.43 11.83 6.83 11.83s-3.11-.624-4.243-1.757L1.17 11.486c1.563 1.562 3.61 2.343 5.658 2.343s4.095-.78 5.657-2.343c3.124-3.124 3.124-8.19 0-11.314L11.07 1.587z"/></svg>

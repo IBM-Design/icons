@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
-<path d="M14,6h-2V3l2-2h-2V0H4v1H2l2,2v3H2l2,2v3H2l2,2v3h8v-3l2-2h-2V8L14,6z M8,15c-1.105,0-2-0.895-2-2c0-1.105,0.895-2,2-2
-	s2,0.895,2,2C10,14.105,9.105,15,8,15z M8,10c-1.105,0-2-0.895-2-2c0-1.105,0.895-2,2-2s2,0.895,2,2C10,9.105,9.105,10,8,10z M8,5
-	C6.895,5,6,4.105,6,3c0-1.105,0.895-2,2-2s2,0.895,2,2C10,4.105,9.105,5,8,5z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M14 6h-2V3l2-2h-2V0H4v1H2l2 2v3H2l2 2v3H2l2 2v3h8v-3l2-2h-2V8l2-2zm-6 9c-1.105 0-2-.895-2-2s.895-2 2-2 2 .895 2 2-.895 2-2 2zm0-5c-1.105 0-2-.895-2-2s.895-2 2-2 2 .895 2 2-.895 2-2 2zm0-5c-1.105 0-2-.895-2-2s.895-2 2-2 2 .895 2 2-.895 2-2 2z"/></svg>
