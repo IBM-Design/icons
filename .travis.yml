@@ -1,0 +1,8 @@
+deploy:
+  provider: npm
+  email: barlockm@gmail.com
+  api_key:
+    secure: r+bJkoHdchkORVQU0Xn4dTPoQzexuSq4Dv9FJduOkED7ijfGDyfT1qNSBSGjDFfZw5gk5MQGp69iJIvIL350MiktwOByJH4q05SVksi/RPGVZFyZsTa/cdTGHUw0sUrZSRy2J/atfK6udz+M0HZeSaXyXfrw0zt6CD1ECkuI06czb475Z1kIAxObROFXK31bOpkxIuaoAQm6M7rRtoN9h+/q1aVQtoZ/z8iWPCNPQKMR+bdbVbilBkzYvca01fIppGthPd5FTJ17k57MKW8Vqs2TradGKBFmUk8JVDoEf7rKB9hCSPXJSx82eg1ZZQCilD4l8WOYTtzDZ9g98t2mKcE6+1zaSn3ifdotP/N1RnTSLfJwjHmqXulw3M/NDWlhock/SaTJMJET6WQw4bokz1vrBj1g0RYfLbzfLZJnUIXXZGWpC/50z6DYJ/2mRVHOEf+mPszWhJDAjCahVM0TqEtWCDylIJY5RpSAJBNFGkEaVu4o/roR/XC4nUQtTIl6tYJFxNmazN2r+/Dc/WdHV3ndiSGJblN65h908vE+7Ejns+i0RmkoHT0G3teYVUu7jmcZlXQjZSHa56Rvf4zdROZbBfDHNe5oKohd+N6Qb8y1oYaxj4Wa3oAUw2lZzXJ3p7W6JAbY+Sd1m5iWR3gnw0m16TxGiqcsS/715q8f6O4=
+  on:
+    tags: true
+    branch: master
