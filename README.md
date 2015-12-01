@@ -36,6 +36,20 @@ Icons accommodate for limited space, but are sized for interactive, touch-friend
 
 All of your icons should have a common naming convention. Export icons as .SVG files and build a .PNG fallback. If you use icon fonts that uses Unicode characters instead of ligatures, prevent screen readers from reading the Unicode and apply ARIA labels. Create icons in multiple sizes to support a variety of screen densities. Before exporting, optimize file sizes and remove any unnecessary metadata.
 
+To automatically export the files, you must have Adobe Illustrator CC installed and be on Mac OSX. 
+
+```bash
+$ npm install
+$ sudo npm install -g gulp
+$ gulp
+```
+
+## Contributing 
+
+Please read the [contributing guide](CONTRIBUTING.md).
+
+**N.B.** If you make updates to the exporting scripts, please do not commit any changes to the dist folder. That will be hanlded on new releases.
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">IBM Design Icons </span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.ibm.com/us/en/" property="cc:attributionName" rel="cc:attributionURL">International Business Machines Corporation</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/IBM-Design/icons" rel="dct:source">https://github.com/IBM-Design/icons</a>.
