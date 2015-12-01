@@ -1,6 +1,6 @@
 {
   "name": "ibm-design-icons",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "IBM Icons",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,7 @@
     "del": "^2.1.0",
     "gulp": "^3.9.0",
     "gulp-shell": "^0.5.1",
+    "gulp-svgmin": "^1.2.0",
     "run-sequence": "^1.1.5"
   }
 }
