@@ -19,10 +19,29 @@ gulp.task("export", shell.task([
         + path.resolve(__dirname, "src") + " "
 ]));
 
-gulp.task("svg", () => {
+gulp.task("svgmin", () => {
     return gulp.src("dist/**/*.svg")
-        .pipe(svgmin())
-        .pipe(gulp.dest("dist"));
+    .pipe(svgmin({
+        plugins: [
+        {cleanupAttrs: true},
+        {removeEditorsNSData: true},
+        {removeEmptyAttrs: true},
+        {removeDimensions: true},
+        {removeComments: true},
+        {removeDoctype: true},
+        {removeRasterImages: true},
+        {removeUnusedNS: true},
+        {removeAttrs:
+            { attrs: [
+                'path:fill',
+                'path:fill-rule',
+                ]
+            }
+        },
+        {removeUselessStrokeAndFill: true},
+        {removeViewBox: false},
+        ]
+    })).pipe(gulp.dest("dist"));
 });
 
 gulp.task('sketch', function(){
@@ -36,9 +55,9 @@ gulp.task('sketch', function(){
 });
 
 gulp.task("sketchSVG", done => {
-    runSequence("sketch", "svg", done);
+    runSequence("sketch", "svgmin", done);
 });
 
 gulp.task("default", done => {
-    runSequence("clean", "export", "svg", done);
+    runSequence("clean", "export", "svgmin", done);
 });
