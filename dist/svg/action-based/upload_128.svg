@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path d="M60.004 20.486V86.83H68V20.485L93.176 45.66 98.832 40 64.004 5.172 29.176 40l5.656 5.657"/><path d="M120 74.83v32H8v-32H4v48h120v-48"/></svg>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<g>
+	<polygon points="60.004,20.486 60.004,86.829 68,86.829 68,20.486 93.176,45.659 98.832,40.002 64.004,5.171 29.176,40.002 
+		34.832,45.659 	"/>
+	<polygon points="120,74.829 120,106.829 8,106.829 8,74.829 4,74.829 4,106.829 4,122.829 8,122.829 120,122.829 124,122.829 
+		124,106.829 124,74.829 	"/>
+</g>
+</svg>
