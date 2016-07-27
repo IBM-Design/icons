@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
-<g>
-	<polygon points="24.708,13.207 23.294,11.792 17,18.087 17,1.5 15,1.5 15,18.085 8.708,11.792 7.294,13.207 16.001,21.914 	"/>
-	<polygon points="29,18.5 29,26.5 3,26.5 3,18.5 1,18.5 1,26.5 1,30.5 3,30.5 29,30.5 31,30.5 31,26.5 31,18.5 	"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M24.708 13.207l-1.414-1.415L17 18.087V1.5h-2v16.585l-6.292-6.293-1.414 1.415L16 21.914"/><path d="M29 18.5v8H3v-8H1v12h30v-12"/></svg>
